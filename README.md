@@ -60,9 +60,7 @@ bash
 Copy
 Edit
 npm run build
-📸 Screenshots
-Home Page	Shop Page	Product Page
-
+ 
 🧾 License
 This project is licensed under the MIT License.
 
